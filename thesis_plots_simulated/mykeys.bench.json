@@ -1,0 +1,14 @@
+{
+  "version": "HyperFrog v33.1",
+  "params": {"N": 4096, "M": 2048, "Q": 65536, "KBITS": 256},
+  "prefix": "mykeys",
+  "target_genus": 8,
+  "threads": 0,
+  "mine_ms": 30000,
+  "iters": 500,
+  "file_mb": 128,
+  "keygen": {"enabled": true, "ms": 4.18244},
+  "encaps_ms": {"mean": 18.0538, "min": 12.4507, "p50": 18.4503, "p95": 19.9878, "max": 56.3373},
+  "decaps_ms": {"mean": 24.2609, "min": 16.8037, "p50": 25.1504, "p95": 27.859, "max": 56.6932},
+  "file": {"bytes": 134217728, "enc_ms": 157.839, "dec_ms": 466.431, "enc_MBps": 810.953, "dec_MBps": 274.424, "ok": true}
+}
