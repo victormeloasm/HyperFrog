@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
-SRC="${1:-hyperfrog_v4_ready.cpp}"
+SRC="${1:-hyperfrog.cpp}"
 BIN="${2:-./hyperfrog}"
 PASS="${HYPERFROG_PASS:-hunter2}"
 
